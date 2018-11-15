@@ -1,0 +1,10 @@
+vimrc/temp_dirs/undodir/*
+vimrc/sources_non_forked/ack.vim/.netrwhist
+vimrc/temp_dirs/yankring_history_v2.txt
+vimrc/sources_forked/yankring/doc/tags
+vimrc/sources_non_forked/tlib/doc/tags
+vimrc/sources_non_forked/ctrlp.vim/doc/tags*
+vimrc/my_plugins/
+vimrc/tags
+vimrc/.DS_Store
+.DS_Store
