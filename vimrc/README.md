@@ -1,7 +1,9 @@
 This is a template for my personal vimrc runtime files
 
+# VIM
 It is a revision from https://github.com/amix/vimrc.git
 
-To use, first clone it to ~/MySettings/
-Or change repo in the install_awesome_vimrc.sh files
+## Helpful tutorials/tips:
+https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85
 
+https://factorpad.com/tech/vim-cheat-sheet.html

@@ -218,6 +218,14 @@ map <C-k> <C-W>k
 map <C-h> <C-W>h
 map <C-l> <C-W>l
 
+" move to beginning/end of line
+nnoremap B ^
+nnoremap E $
+
+" $/^ doesn't do anything
+nnoremap $ <nop>
+nnoremap ^ <nop>
+
 " Close the current buffer
 map <leader>bd :Bclose<cr>:tabclose<cr>gT
 
