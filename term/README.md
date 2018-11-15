@@ -1,4 +1,4 @@
-Command line:
+**Command line:**
 
 ```Ctrl + U```  Clear to the beginning.
 
