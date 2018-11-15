@@ -7,3 +7,6 @@
 ```Ctrl + Y``` Recall the deleted command
 
 ```Ctrl + A```  go to the beginning.
+
+```Shift + CMD + left/right``` switch between tabs
+
