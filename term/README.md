@@ -1,5 +1,7 @@
 **Command line:**
 
+```Opt + left/right``` Move word backward/forward
+
 ```Ctrl + U```  Clear to the beginning.
 
 ```Ctrl + K```  Clear to the end.
@@ -8,5 +10,5 @@
 
 ```Ctrl + A```  go to the beginning.
 
-```Shift + CMD + left/right``` switch between tabs
+```Ctrl + Tab``` switch between tabs
 

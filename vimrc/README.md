@@ -13,13 +13,33 @@ https://factorpad.com/tech/vim-cheat-sheet.html
 ## Cheat Sheet
 
 ** Search: **
-
 Search forward:           ```n```
 
 Search backward:          ```N```
 
+Search ignore case:       ```\sth/c```
+
 ** Go To **
 
-Goto the last Cursor:     ```Ctrl + o``` 
+Go back to last cursor:   ```Ctrl + o```
+
+Go forward to cursor:     ```Ctrl + i```
 
 Goto line x:              ```the number of the line + G```
+
+Goto matching parenthesis:```%```
+
+** Content file **
+
+Save Selection to file:   ```v (select) :w {FILENAME}```
+
+Retrieve/Paste file:      ```:r {FILENAME}```
+
+Add text ahead the lines: ```Ctrl-v, (select rows), Shift+i, (add text), Esc```
+
+Delete text ahead lines   ```Ctrl-v, (select rows and characters), x```
+
+Yank (copy) current line: ```Y```
+
+Paste before the cursor:  ```P``` 
+
